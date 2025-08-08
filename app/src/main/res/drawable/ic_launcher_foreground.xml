@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Крупная буква S по центру -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,38
+                          C30,26 42,20 56,20
+                          C68,20 78,24 78,33
+                          C78,40 73,44 62,47
+                          L50,50
+                          C41,52 36,56 36,63
+                          C36,73 46,78 58,78
+                          C70,78 78,74 78,66
+                          L78,66
+                          C78,60 74,57 66,55
+                          L56,52
+                          C44,49 30,46 30,38 Z"/>
+</vector>
